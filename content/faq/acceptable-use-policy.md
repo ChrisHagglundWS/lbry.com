@@ -5,7 +5,7 @@ category: other
 
 If you've read [Art in the Internet Age,](/what) you know that LBRY believes we are in a post-scarcity age in terms of the reproduction of content. There are two things that are still scarce; good quality content, and good reputations. We take respecting the rights of creators very seriously, and we expect the same when it comes to our brand name. Here is how we go about protecting that.
 
-Our trademarks include our name, LBRY, and our official logo, which are owned by LBRY, Inc, a Delaware Corporation. We encourage the use of LBRY's trademarked name and official logo while maintaining control of them in order to thwart vandalism, theft, and any future misconduct that offends the collective sensibility of LBRY users creates legal hazards or otherwise inhibits the free expression and open transactions we prize.
+Our trademarks include our name, LBRY, and our official logo, which are owned by LBRY, Inc, a Delaware Corporation. We encourage the use of LBRY's trademarked name and official logo while maintaining control of them in order to thwart vandalism, theft, and any future misconduct that offends the collective sensibility of LBRY users, creates legal hazards, or otherwise inhibits the free expression and open transactions we prize.
 
 ## Our trademark policy has three objectives:
 
